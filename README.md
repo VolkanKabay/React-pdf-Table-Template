@@ -3,10 +3,10 @@
  
 ![image](https://github.com/user-attachments/assets/e0dc2177-204e-4d47-8eb3-da90d38b1307)
 
-How to run
+# How to run
 
-Clone the repository
-In the terminal go to the repository folder: cd react-pdf-table-template
-Install the dependencies using   npm:  npm install
-Start the project with:  npm run dev
-The project will run automatically on localhost
+1. Clone the repository
+2. In the terminal go to the repository folder: cd react-pdf-table-template
+3. Install the dependencies using   npm:  npm install
+4. Start the project with:  npm run dev
+5. The project will run automatically on localhost
